@@ -2,3 +2,5 @@
 2 Preto
 3 Cinza
 4 Azul
+5 laranja
+6 Amarelo
