@@ -4,3 +4,4 @@
 4 Azul
 5 laranja
 6 Amarelo
+7 roxo
